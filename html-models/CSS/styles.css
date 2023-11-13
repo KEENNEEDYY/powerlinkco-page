@@ -2,8 +2,8 @@
 
 :root {
     --pwr-color-bg-primary: #0C1F2E;
-    --pwr-color-bg-secondary: #67C0ED;
-    --pwr-color-bg-tertiary: #000000;
+    --pwr-color-bg-secondary: #026FB8;
+    --pwr-color-bg-tertiary: #d9d9d9;
     --pwr-color-bg-quartenary: #FFFFFF;
 
     --pwr-color-card-bg: #EDEDED;
@@ -16,7 +16,6 @@
     --pwr-color-font-primaryyy: #636363;
     --pwr-color-font-secondary: #000000;
     --pwr-color-font-tertiary: #fff;
-    --pwr-color-font-placeholder: #d9d9d9;
 
     --pwr-color-error: #f33;
 }
