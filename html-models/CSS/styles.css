@@ -5,17 +5,21 @@
     --pwr-color-bg-secondary: #026FB8;
     --pwr-color-bg-tertiary: #d9d9d9;
     --pwr-color-bg-quartenary: #FFFFFF;
+    --pwr-color-bg-five: #3db6e6;
 
     --pwr-color-card-bg: #EDEDED;
     --pwr-color-card-border: #000000;
 
     --pwr-color-btn-primary: #67C0ED;
+    --pwr-color-btn-two: #309ED8;
     --pwr-color-btn-inverse: #fff;
 
     --pwr-color-font-primary: #fff;
     --pwr-color-font-primaryyy: #636363;
     --pwr-color-font-secondary: #000000;
     --pwr-color-font-tertiary: #fff;
+
+    --pwr-color-card-border: #000000;
 
     --pwr-color-error: #f33;
 }
