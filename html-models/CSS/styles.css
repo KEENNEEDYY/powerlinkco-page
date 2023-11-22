@@ -35,12 +35,22 @@ a, a:hover{
 }
 html, body{
     background-color: #0000;
+    padding: 0 0;
+    margin: 0 0;
 }
 main{
-    padding: 0 20px;
-    max-width: 320px;
+    /* padding: 0 20px; */
+    min-width: 320px;
+    padding: 0 0;
+    margin: 0 0;
 }
 
+.page-break {
+    height: 0px; /* Add a small gap between the pages */
+    background-color: none;
+  }
+
 .sections {
-    max-width: 110vw;
+    padding: 20px 20px;
+    height: 100vh;
 }
